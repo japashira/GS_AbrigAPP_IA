@@ -51,7 +51,7 @@ Criar um sistema inteligente capaz de:
 
 | Arquivo                         | Descrição                                               |
 |--------------------------------|----------------------------------------------------------|
-| `notebook_colab.ipynb`         | Notebook principal com todo o fluxo da solução          |
+| `GS_AbrigAPP.ipynb`         | Notebook principal com todo o fluxo da solução          |
 | `modelo_risco_enchente.pkl`    | Modelo treinado (Random Forest)                         |
 | `label_encoder_risco.pkl`      | Encoder para transformar labels de risco                |
 | `simulated_data.csv`           | Dados simulados de sensores (opcional)                  |
