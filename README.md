@@ -31,7 +31,6 @@ Criar um sistema inteligente capaz de:
 - 📦 **Joblib** (salvamento de modelo)
 - 🧾 **JSON** (formato de integração IoT)
 - 🔐 **LabelEncoder** (tratamento de categorias)
-- (Opcional: **Plotly / Folium** para mapas)
 
 ---
 
