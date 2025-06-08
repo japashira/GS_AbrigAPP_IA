@@ -71,7 +71,3 @@ Criar um sistema inteligente capaz de:
   "risco_previsto": "alto"
 }
 ```
-
----
-
-# Link: https://youtu.be/pNW76c7GRM0
